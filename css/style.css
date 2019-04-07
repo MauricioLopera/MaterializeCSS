@@ -1,0 +1,25 @@
+body{
+  background: url(../img/fondo.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.rowsinmag{
+  margin: 0 !important;
+}
+.colsinpad{
+  padding: 0 !important;
+}
+.img{
+  width: 70%;
+}
+.galeria{
+  width: 100%;
+}
+.imgpub{
+  margin-top: 10px;
+  border: 2px solid #ffffff;
+}
+.descaut{
+  font-size: 12px;
+}
